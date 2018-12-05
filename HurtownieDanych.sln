@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IntegrationServices", "IntegrationServices\IntegrationServices.dtproj", "{314CEBA2-9673-4CA7-8951-571458109E98}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MultidimensionalProject", "MultidimensionalProject\MultidimensionalProject.dwproj", "{8C0B48FC-259A-459B-8A7D-F07313E8602D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314CEBA2-9673-4CA7-8951-571458109E98}.Development|Default.ActiveCfg = Development
+		{314CEBA2-9673-4CA7-8951-571458109E98}.Development|Default.Build.0 = Development
+		{8C0B48FC-259A-459B-8A7D-F07313E8602D}.Development|Default.ActiveCfg = Development
+		{8C0B48FC-259A-459B-8A7D-F07313E8602D}.Development|Default.Build.0 = Development
+		{8C0B48FC-259A-459B-8A7D-F07313E8602D}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A70A5AE-E04D-40F3-B332-B56856E23C3B}
+	EndGlobalSection
+EndGlobal
